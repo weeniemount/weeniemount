@@ -1,6 +1,4 @@
-### amogus
-### lol
-### i like programming lol
+### i am programmer man
 
 <!--
 **idkthegithub/idkthegithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
