@@ -3,8 +3,9 @@ and pizza tower weenie mount
 
 ![awesome](badges-awesome-green.svg)
 
-[![Press the H!](h-button.png)](https://github.com/weeniemount/weeniemount/issues/new?title=hclick&body=press+create+to+register+your+click)
 
+## press the h!
+[![Press the H!](h.gif)](https://github.com/weeniemount/weeniemount/issues/new?title=hclick&body=press+create+to+register+your+click)
 **H Clicks: 2**
 
 my stats cuz why not
