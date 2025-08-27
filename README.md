@@ -9,7 +9,7 @@ and pizza tower weenie mount
 
 **H Clicks: 2**
 
-my stats cuz why not
+## my stats cuz why not
 
 ![Weeniemount's GitHub stats](https://github-readme-stats.vercel.app/api?username=weeniemount&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeniemount&layout=compact&theme=radical)
 <!--
