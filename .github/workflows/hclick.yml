@@ -1,9 +1,7 @@
 name: Count H Clicks
-
 on:
   issues:
     types: [opened]
-
 jobs:
   update-click-count:
     if: github.event.issue.title == 'hclick'
@@ -13,13 +11,13 @@ jobs:
       - name: Get current count
         id: count
         run: |
-          grep -oP 'H Clicks: \K\d+' README.md || echo 0 > count.txt
-          echo "::set-output name=current::$(cat count.txt)"
+          current=$(grep -oP 'H Clicks: \K\d+' README.md 2>/dev/null || echo 0)
+          echo "current=$current" >> $GITHUB_OUTPUT
       - name: Increment count
         id: increment
         run: |
           NEW=$(( ${{ steps.count.outputs.current }} + 1 ))
-          echo "::set-output name=new::${NEW}"
+          echo "new=$NEW" >> $GITHUB_OUTPUT
       - name: Replace count in README
         run: |
           sed -E -i "s/(H Clicks: )[0-9]+/\1${{ steps.increment.outputs.new }}/" README.md
@@ -27,7 +25,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update H click count to ${{ steps.increment.outputs.new }}"
+          git commit -am "Update H click count to ${{ steps.increment.outputs.new }} (incremented by @${{ github.event.issue.user.login }})"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
