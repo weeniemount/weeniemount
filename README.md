@@ -3,6 +3,10 @@ and pizza tower weenie mount
 
 ![awesome](badges-awesome-green.svg)
 
+[![Press the H!](h-button.png)](https://github.com/owner/repo/issues/new?title=hclick&body=press+create+to+register+your+click)
+
+**H Clicks: 0**
+
 my stats cuz why not
 
 ![Weeniemount's GitHub stats](https://github-readme-stats.vercel.app/api?username=weeniemount&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeniemount&layout=compact&theme=radical)
