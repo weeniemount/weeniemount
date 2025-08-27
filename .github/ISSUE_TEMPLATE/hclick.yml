@@ -1,0 +1,9 @@
+name: H-Click
+description: Clicking the 'H' button
+title: hclick
+labels: ['hclick']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        press create to register your click
