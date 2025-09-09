@@ -7,7 +7,7 @@ and pizza tower weenie mount
 ## press the h!
 [![Press the H!](arg-h-5O-tr.gif)](https://github.com/weeniemount/weeniemount/issues/new?title=hclick&body=press+create+to+register+your+click)
 
-**H Clicks: 26**
+**H Clicks: 27**
 
 ## my stats cuz why not
 
