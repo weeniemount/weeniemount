@@ -12,7 +12,7 @@ visit my github site! [https://weeniemount.github.io](https://weeniemount.github
 
 ## my stats cuz why not
 
-![Weeniemount's GitHub stats](https://github-readme-stats.vercel.app/api?username=weeniemount&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeniemount&layout=compact&theme=radical)
+![Weeniemount's GitHub stats](https://grs.googleballs.com/api?username=weeniemount&show_icons=true&theme=radical) ![Top Langs](https://grs.googleballs.com/api/top-langs/?username=weeniemount&layout=compact&theme=radical)
 <!--
 **weeniemount/weeniemount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
