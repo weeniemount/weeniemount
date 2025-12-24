@@ -1,7 +1,7 @@
-### i am programmer man
-and pizza tower weenie mount
+### welcome to my ween github profile:tm:
 
-![awesome](badges-awesome-green.svg)
+
+![awesome](badges-awesome-green.svg) [![join my discord server!](https://img.shields.io/discord/1408016876436721744?logo=discord&label=weencord)](https://discord.com/invite/54sNKkcmMf)
 
 visit my github site! [https://weeniemount.github.io](https://weeniemount.github.io)
 
