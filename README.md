@@ -3,7 +3,7 @@
 
 ![awesome](badges-awesome-green.svg) [![join my discord server!](https://img.shields.io/discord/1408016876436721744?logo=discord&label=weencord)](https://discord.com/invite/54sNKkcmMf)
 
-visit my github site! [https://weeniemount.github.io](https://weeniemount.github.io)
+visit my website! https://weeniemount.pages.dev/
 
 ## press the h!
 [![Press the H!](arg-h-5O-tr.gif)](https://github.com/weeniemount/weeniemount/issues/new?title=hclick&body=press+create+to+register+your+click+.+dont+modify+the+issue+name+otherwise+it+wont+register!!)
