@@ -8,7 +8,7 @@ visit my website! https://weeniemount.pages.dev/
 ## press the h!
 [![Press the H!](arg-h-5O-tr.gif)](https://github.com/weeniemount/weeniemount/issues/new?title=hclick&body=press+create+to+register+your+click+.+dont+modify+the+issue+name+otherwise+it+wont+register!!)
 
-**H Clicks: 93**
+**H Clicks: 94**
 
 ## my stats cuz why not
 
